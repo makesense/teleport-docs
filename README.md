@@ -15,12 +15,12 @@ Under the "Read/Write Contract" section, select the dropdown on the right "Selec
 
 First check the SENSE ERC20 balance of your account. Select `balanceOf` from the dropdown. Under `_who (address)` enter your current ETH address (which holds your SENSE ERC20 tokens). Click "Read". Copy that value. It's the amount of SENSE you have as ethereum registers it with the added 0s (8 of them).
 
-Switch the dropdown now to the `approve` function. Paste in the value you copied in the step before to the `_value` field. Under spender, paste in the migration contract address: `0x53e79ec852399f7306F8Cc94D424d60688c02C61`. Click "Write". This will trigger you approving the transaction. Approve it and wait for it to confirm. Check the blinking red notification on the top right to confirm a successful transaction.
+Switch the dropdown now to the `approve` function. Paste in the value you copied in the step before to the `_value` field. Under spender, paste in the migration contract address: `0xb32d29932EfA98dBAf4fF404eA5Eb4bb68d1bc1B`. Click "Write". This will trigger you approving the transaction. Approve it and wait for it to confirm. Check the blinking red notification on the top right to confirm a successful transaction.
 
 ### Step 2 - Teleport 🚀
 Refresh the page and re-select how to access your wallet, and head to the same "Contract" section again.
 
-For the "Contract address" this time paste in the migration contract address: `0x53e79ec852399f7306F8Cc94D424d60688c02C61`. Copy/paste the contents of the [MIGRATION CONTRACT ABI](migration.abi) and select "Continue".
+For the "Contract address" this time paste in the migration contract address: `0xb32d29932EfA98dBAf4fF404eA5Eb4bb68d1bc1B`. Copy/paste the contents of the [MIGRATION CONTRACT ABI](migration.abi) and select "Continue".
 
 On the dropdown select the `teleport` function. For `Note (string)` enter the EOS account you want your SENSE EOS tokens delivered. *DOUBLE-CHECK THIS ADDRESS* By doing this manually we can't confirm this for you. The oracle will deliver to the address you input here. Once you have confirmed the address, click "Write".
 
