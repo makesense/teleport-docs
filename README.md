@@ -19,7 +19,7 @@ First check the SENSE ERC20 balance of your account. Select `balanceOf` from the
 
 ![balance](screenshots/balance.png)
 
-Switch the dropdown now to the `approve` function. Paste in the value you copied in the step before to the `_value` field. Under spender, paste in the migration contract address: `0xfAAfD42C16fa3b6eCb27e3334b7FA4E7E1CFE842`. Click "Write". This will trigger you approving the transaction. Approve it and wait for it to confirm. Check the blinking red notification on the top right to confirm a successful transaction.
+Switch the dropdown now to the `approve` function. Paste in the value you copied in the step before to the `_value` field. Under spender, paste in the migration contract address: `0xF8628dd367C1b46441B7D825ad363cF130B26A9a`. Click "Write". This will trigger you approving the transaction. Approve it and wait for it to confirm. Check the blinking red notification on the top right to confirm a successful transaction.
 
 ![approve](screenshots/approve.png)
 
@@ -28,7 +28,7 @@ Switch the dropdown now to the `approve` function. Paste in the value you copied
 ### Step 2 - Teleport 🚀
 Refresh the page and re-select how to access your wallet, and head to the same "Contract" section again.
 
-For the "Contract address" this time paste in the migration contract address: `0xfAAfD42C16fa3b6eCb27e3334b7FA4E7E1CFE842`. Copy/paste the contents of the [MIGRATION CONTRACT ABI](migration.abi) and select "Continue".
+For the "Contract address" this time paste in the migration contract address: `0xF8628dd367C1b46441B7D825ad363cF130B26A9a`. Copy/paste the contents of the [MIGRATION CONTRACT ABI](migration.abi) and select "Continue".
 
 ![migration-setup](screenshots/migration-setup.png)
 
