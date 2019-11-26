@@ -38,4 +38,6 @@ On the dropdown select the `teleport` function. For `Note (string)` enter the EO
 
 Approve the transaction. This will trigger teleportation and once enough ethereum blocks have been confirmed, your EOS tokens will be delivered ⚡ 🚀.
 
-### Step 3 - ENJOY SENSE on EOS
+### Step 3 - Email ben@makesense.com with the transaction details. 
+
+### Step 4 - ENJOY SENSE on EOS
