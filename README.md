@@ -4,6 +4,9 @@
 
 ## Instructions for manual token teleportation
 
+### Recommendation
+Please check https://ethgasstation.info/ for the "Fast" GWEI cost and use that as your GWEI setting on all ETH transactions so there is less chance your ETH transactions will fail.
+
 ### Step 1 - Approve Teleportation
 Access your wallet via MyEtherWallet. Select method (i.e. Ledger, Metamask, etc) and then head over to the "CONTRACT" section on the left bar.
 
