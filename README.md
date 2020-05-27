@@ -8,7 +8,7 @@
 Please check https://ethgasstation.info/ for the "Fast" GWEI cost and use that as your GWEI setting on all ETH transactions so there is less chance your ETH transactions will fail.
 
 ### Step 1 - Approve Teleportation
-Access your wallet via MyEtherWallet. Select method (i.e. Ledger, Metamask, etc) and then head over to the "CONTRACT" section on the left bar.
+Access your wallet via MyEtherWallet. Select method (i.e. Ledger, Metamask, etc) and then click on the hamburger menu on the top left find the "CONTRACT" menu listed as the 5th item on the list below Dashboard.
 
 Select "Interact with contract" and enter the following SENSE ERC20 token address: `0x6745fAB6801e376cD24F03572B9C9B0D4EdDDCcf`.
 
